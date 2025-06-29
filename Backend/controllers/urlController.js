@@ -34,7 +34,7 @@ const getUrlById = async (req, res) => {
             $inc: { visits: 1 },
             $push: { clickTimestamps: new Date() }
         })
-          res.redirect(urlEntry.originalUrl);
+        res.redirect(urlEntry.originalUrl);
     } catch (error) {
         res.status(500).json({ error: 'Redirection error' });
     }
