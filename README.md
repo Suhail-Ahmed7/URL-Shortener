@@ -26,6 +26,9 @@ A simple and powerful full-stack URL Shortener built with **MERN Stack** (MongoD
 | Axios          | API calls in frontend    |
 
 ## ⚙️ How to Run Locally
+📸 Screenshot
+
+![App Screenshot](frontend/screenshot.png)
 
 ### 📦 Backend
 cd backend
