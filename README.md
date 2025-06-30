@@ -28,7 +28,7 @@ A simple and powerful full-stack URL Shortener built with **MERN Stack** (MongoD
 ## ⚙️ How to Run Locally
 📸 Screenshot
 
-![App Screenshot](frontend/screenshot.png)
+![App Screenshot](https://github.com/Suhail-Ahmed7/URL-Shortener/blob/main/frontend/image.png)
 
 ### 📦 Backend
 cd backend
