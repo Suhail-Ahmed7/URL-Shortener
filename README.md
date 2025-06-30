@@ -25,30 +25,6 @@ A simple and powerful full-stack URL Shortener built with **MERN Stack** (MongoD
 | Nanoid         | Generate short IDs       |
 | Axios          | API calls in frontend    |
 
----
-
-## 📁 Folder Structure
-
-📦url-shortener/
-┣ 📂backend/
-┃ ┣ 📂controllers/
-┃ ┃ ┗ urlController.js
-┃ ┣ 📂models/
-┃ ┃ ┗ url.js
-┃ ┣ 📂routes/
-┃ ┃ ┗ urlRoutes.js
-┃ ┣ 📂config/
-┃ ┃ ┗ dbConnection.js
-┃ ┗ server.js
-┣ 📂frontend/
-┃ ┣ 📂src/
-┃ ┃ ┣ App.jsx
-┃ ┃ ┣ components/
-┃ ┃ ┃ ┗ UrlShortener.jsx
-┃ ┃ ┗ index.css
-┃ ┗ vite.config.js
-┗ README.md
-
 ## ⚙️ How to Run Locally
 
 ### 📦 Backend
